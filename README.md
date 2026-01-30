@@ -2,7 +2,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,npm,vercel,github" />
 </p>
 
-<h1 align="center">Olá, eu sou o [SEU NOME] 👋</h1>
+<h1 align="center">Olá, eu sou o Ivanilson Salvador 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[SEU-USUARIO-DO-GITHUB]&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
@@ -14,7 +14,7 @@ Sou um desenvolvedor apaixonado por criar interfaces modernas e funcionais. Esto
 - 🔭 Atualmente trabalhando em **projetos pessoais e portfólio**
 - 🌱 Aprendendo cada vez mais sobre **React e Performance Web**
 - 💬 Pergunte-me sobre **HTML, CSS, JS e Tailwind**
-- 📫 Como me encontrar: **[seu-email@exemplo.com]**
+- 📫 Como me encontrar: **lukeneivanilson@gmail.com**
 
 ---
 
