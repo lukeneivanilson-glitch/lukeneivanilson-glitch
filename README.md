@@ -1,33 +1,43 @@
-# Olá, eu sou o Ivanilson Salvador 👋
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,npm,vercel,github" />
+</p>
+
+<h1 align="center">Olá, eu sou o [SEU NOME] 👋</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[SEU-USUARIO-DO-GITHUB]&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+</p>
 
 ### 🚀 Sobre mim
-Estou focando meus estudos em **Desenvolvimento Web**. 
-Atualmente estou trabalhando em Devstore e buscando aprender mais sobre React e suas bibiotecas.
+Sou um desenvolvedor apaixonado por criar interfaces modernas e funcionais. Estou sempre explorando novas tecnologias e aprimorando minhas habilidades no ecossistema Frontend.
+
+- 🔭 Atualmente trabalhando em **projetos pessoais e portfólio**
+- 🌱 Aprendendo cada vez mais sobre **React e Performance Web**
+- 💬 Pergunte-me sobre **HTML, CSS, JS e Tailwind**
+- 📫 Como me encontrar: **[seu-email@exemplo.com]**
 
 ---
 
-### 🛠 Tecnologias que utilizo:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### 🛠️ Ferramentas & Build:
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### 🛠️ Minhas Stacks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,npm,vercel,github,vscode,git" />
+  </a>
+</p>
 
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-DO-GITHUB]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-DO-GITHUB]&layout=compact&langs_count=7&theme=radical"/>
+</p>
 
 ---
 
-### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK-DO-SEU-LINKEDIN])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU-EMAIL])
+### 📢 Redes Sociais
+<p align="left">
+  <a href="[LINK-DO-SEU-LINKEDIN]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="[LINK-DO-SEU-INSTAGRAM]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:[SEU-EMAIL]" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
